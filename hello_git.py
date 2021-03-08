@@ -5,9 +5,5 @@ print("type something here")s
 print('sfasf')
 sfa
 sdfa 
-<<<<<<< HEAD
-Creating a new branch is quick & simple.
-
-=======
-Creating a new branch is quick AND simple.
->>>>>>> dev
+Creating a new branch is quick and simple.
+sfas fsd
